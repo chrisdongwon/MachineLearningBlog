@@ -10,15 +10,12 @@
 
 # Author Settings
 author: Chris Won # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: Join me as I explore the world of machine learning and artificial intelligence. # add description
-social-youtube: chrisdongwon
+author-img: chris-won.jpg # add your photo
+about-author: Join me as I explore the world of data analytics and science. # add description
+social-youtube: @chrisdongwon
 social-github: chrisdongwon # add your Github handle
 social-linkedin: chrisdongwon # add your Linkedin handle
 social-email: chrisdongwon@gmail.com # add your Email address
-
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
